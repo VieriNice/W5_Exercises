@@ -28,3 +28,8 @@ City = 'Chicago'
 State = 'Illinois'
 
 print(City + ', ' + State )
+
+
+# LAB 2 #
+
+# The list of variables that can't be used  
