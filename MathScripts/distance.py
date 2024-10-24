@@ -7,3 +7,5 @@ y1 = 2
 y2 = 0
 
 distance_formula = math.sqrt((x2 - x1)** 2 + (y2-y1)** 2)
+
+print(round(distance_formula, 2))
