@@ -42,3 +42,4 @@ discount_amt = item_price * .8
 
 print(type(item_price))
 print(discount_amt)
+
