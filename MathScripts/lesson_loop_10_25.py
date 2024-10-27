@@ -14,7 +14,7 @@ while sav_balance > 50:
     print('Treat Yourself')
     check_balance -= 25
     print(f'New checking balance is {check_balance}')
-    if check_balance < 50:
+    if check_balance < 50s:
         break
 
 print(f'Your final balance are {sav_balance} and {check_balance}')
